@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1vvvvv
 cf21hh
+=======
+cvvvvv55
+cf21hh55
+>>>>>>> dev
